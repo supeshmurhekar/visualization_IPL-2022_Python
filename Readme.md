@@ -63,6 +63,7 @@ _The dataset is used for educational and analytical purposes only._
 ## 6) Tools and Technologies
 
 - **Python**
+-  **Jupyter Notebook**
 - **Pandas** – data manipulation and aggregation
 - **NumPy** – numerical operations
 - **Matplotlib** – data visualization
