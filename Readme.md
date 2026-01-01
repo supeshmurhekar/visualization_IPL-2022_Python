@@ -105,7 +105,7 @@ jupyter notebook IPL-2022.ipynb
 ---
 
 ## 10 )Project Structure
-
+```bash
 IPL-2022-Data-Analysis/
 ├── data/
 │ └── ipl_2022.csv
@@ -115,7 +115,7 @@ IPL-2022-Data-Analysis/
 │ └── charts.png
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 11) Project Visualizations
