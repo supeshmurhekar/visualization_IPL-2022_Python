@@ -22,9 +22,9 @@ This project performs **Exploratory Data Analysis (EDA)** on IPL 2022 cricket da
 - [Methods](#7-methods)
 - [Key Insights](#8-key-insights)
 - [How to Run This Project](#9-how-to-run-this-project)
-- [Project Structure](#10_Project_Structure)
+- [Project Structure](#10-Project-Structure)
 - [visulizations](#11-Project-Visualizations)
-- [Results and Conclusion](#12_Results_and_Conclusion)
+- [Results and Conclusion](#12-Results-and-Conclusion)
 - [Author and Contact](#author-and-contact)
 
 ---
