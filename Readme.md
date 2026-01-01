@@ -130,7 +130,7 @@ IPL-2022-Data-Analysis/
 
 ### Player of the Match
 
-![Player_of_the_Match](Player of the Match.png)
+![Player_of_the_Match](https://github.com/supeshmurhekar/visualization_IPL-2022_Python/blob/main/Player%20of%20the%20Match.png)
 
 ### Best Bowling Figures
 
