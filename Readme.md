@@ -43,7 +43,7 @@ The objective of this project is to answer key analytical questions such as:
 - Who recorded the highest individual and total scores?
 - How do player contributions compare across matches?
 
----
+--
 
 ## 5) dataset
 
@@ -122,11 +122,11 @@ IPL-2022-Data-Analysis/
 
 ### Most winning matches by teams
 
-![Most_winning_matches_by_teams](Most winning matches by teams.png)
+![Most_winning_matches_by_teams](https://github.com/supeshmurhekar/visualization_IPL-2022_Python/blob/main/Most%20winning%20matches%20by%20teams.png)
 
 ### Top Scorers Analysis
 
-![Total_High_Score](Total High Score.png)
+![Total_High_Score](https://github.com/supeshmurhekar/visualization_IPL-2022_Python/blob/main/Total%20High%20Score.png)
 
 ### Player of the Match
 
@@ -134,7 +134,7 @@ IPL-2022-Data-Analysis/
 
 ### Best Bowling Figures
 
-## ![Best_Bowling_Figures](Best Bowling Figures.png)
+## ![Best_Bowling_Figures](https://github.com/supeshmurhekar/visualization_IPL-2022_Python/blob/main/Best%20Bowling%20Figures.png )
 
 ## 12) Results and Conclusion
 
